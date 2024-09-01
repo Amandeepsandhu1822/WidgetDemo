@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Yogesh Widget Demo</string>
+    <string name="appwidget_text">Empty!!</string>
+    <string name="add_widget">Add widget</string>
+</resources>
